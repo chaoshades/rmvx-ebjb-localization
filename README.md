@@ -20,6 +20,10 @@ OR
 
 - There is an already pre-compiled demo with the classic sample project.
 
+### Dependencies
+
+Depends on EBJB_Core : <https://github.com/chaoshades/rmvx-ebjb-core/>
+
 ## Documentation
 
 ### Database schema
