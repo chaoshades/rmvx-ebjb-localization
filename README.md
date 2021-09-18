@@ -22,7 +22,7 @@ OR
 
 ### Dependencies
 
-Depends on EBJB_Core : <https://github.com/chaoshades/rmvx-ebjb-core/>
+- Depends on EBJB_Core : <https://github.com/chaoshades/rmvx-ebjb-core/>
 
 ## Documentation
 
