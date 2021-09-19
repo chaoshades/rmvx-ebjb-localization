@@ -1,6 +1,6 @@
 # rmvx-ebjb-localization
 
-Adds simple way to add multilingual support to your game backed by a [SQLite](https://www.sqlite.org/index.html) database. We could also use the same idea to feed more data into RPG Maker VX instead of the default database.
+Adds simple way to add multilingual support to your game backed by a [SQLite][url-sqlite] database. We could also use the same idea to feed more data into RPG Maker VX instead of the default database.
 
 ## Table of contents
 
@@ -61,7 +61,7 @@ To change the language, you can do so with a `Show Choices` event or any custom 
 
 > I put the source code I had that was used to generate the wrapper to be called by RPG Maker VX. Sorry, I didn't found more details on how it was compiled though.
 
-It's a wrapper, hence the name, on a library in C# that uses the ADO.NET provider for [SQLite](https://www.sqlite.org/index.html) and return results in XML. It is loaded with a `Win32API` call. 
+It's a wrapper, hence the name, on a library in C# that uses the ADO.NET provider for [SQLite][url-sqlite] and return results in XML. It is loaded with a `Win32API` call. 
 
 #### rexml
 
@@ -75,3 +75,5 @@ Still in development...
 ## Creators
 
 - <https://github.com/chaoshades>
+
+ [url-sqlite]:    https://www.sqlite.org/index.html
