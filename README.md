@@ -65,7 +65,7 @@ It's a wrapper, hence the name, on a library in C# that uses the ADO.NET provide
 
 #### rexml
 
-A [Ruby library](https://github.com/ruby/rexml) with a simple API to parse the XML returned by the SQLiteDBAccess library. It is loaded dynamically with the require method, which isn't available by default in RGSS, so it was custom-made.
+A [Ruby library](https://github.com/ruby/rexml) with a simple API to parse the XML returned by the SQLiteDBAccess library. It is loaded dynamically with the require method, which isn't available by default in RGSS2, so it was custom-made.
 > For more info, the source is there : <https://github.com/chaoshades/rmvx-ebjb-core/blob/master/src/Other%20Scripts/RequireDefinition.rb>
 
 ## Contributing
