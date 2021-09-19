@@ -11,6 +11,7 @@ Adds simple way to add multilingual support to your game backed by a [SQLite](ht
 
 ## Quick start
 
+- See [dependencies](#dependencies)
 - Run this command to combine core scripts source into one file. `ruby build.rb`
 - Copy the resulting file into your RPG Maker VX project 
 - Copy the `lib/rexml` folder and its content into the `External Scripts` folder of your project
@@ -22,7 +23,9 @@ OR
 
 ### Dependencies
 
-- Depends on EBJB_Core : <https://github.com/chaoshades/rmvx-ebjb-core/>
+The dependencies must be inserted, in the below order, before the script of this repo :
+
+1. Depends on EBJB_Core : <https://github.com/chaoshades/rmvx-ebjb-core/>
 
 ## Documentation
 
