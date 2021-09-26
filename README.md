@@ -33,8 +33,8 @@ The dependencies must be inserted, in the below order, before the script of this
 
 ```text
 CREATE TABLE LANGUAGES (
-  lang_id.    integer,
-  lang_desc.  nvarchar(20),
+  lang_id     integer,
+  lang_desc   nvarchar(20),
   Primary Key (lang_id)
 )
 
